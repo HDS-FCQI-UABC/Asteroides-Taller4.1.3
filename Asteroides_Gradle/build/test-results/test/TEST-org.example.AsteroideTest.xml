@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.AsteroideTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-10T18:05:01" hostname="MARIBEL-PC" time="0.055">
+  <properties/>
+  <testcase name="setPosicion()" classname="org.example.AsteroideTest" time="0.044"/>
+  <testcase name="getPosicion()" classname="org.example.AsteroideTest" time="0.002"/>
+  <testcase name="mover()" classname="org.example.AsteroideTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
